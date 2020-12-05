@@ -1,5 +1,8 @@
 # AsciiArt
 Converts still pictures and videos to ascii art
+
+*** High contrast pictures work better***
+
 requirements : opencv (cv2)
 
 opencv can be downloaded using : 
