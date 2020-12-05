@@ -12,4 +12,5 @@ Save the image you want to convert in ```test.jpg``` and run
 
 ```python asciiart.py``` 
 
-and the output will be displayed in the terminal
+and the output will be displayed in the terminal. The farther your eyes are from the screen
+the better it will look.
